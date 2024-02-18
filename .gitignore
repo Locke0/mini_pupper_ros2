@@ -242,6 +242,8 @@ poetry.toml
 
 ### ROS ###
 devel/
+install/
+log/
 logs/
 bin/
 msg_gen/
